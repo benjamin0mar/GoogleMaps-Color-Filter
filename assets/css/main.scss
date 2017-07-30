@@ -1,0 +1,9 @@
+@import "0-tools/reset";
+
+body {
+    background: white;
+}
+
+#map{
+  filter: grayscale(1) brightness(0.7) contrast(1.15);
+}
